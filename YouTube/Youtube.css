@@ -1,0 +1,23 @@
+div{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 5px;
+  }
+  .search-bar {
+    display: block;
+  
+  }
+  
+  img {
+    display: inline-block;
+    width: 300px;
+  }
+  .title{
+    width: 250px;
+  }
+  .author{
+    font-size: 14px;
+  }
+  .stats{
+    font-size: 14px;
+  }
