@@ -1,0 +1,14 @@
+.card{
+    border-width: 1px;
+    width: 300px;
+    height: 100px;
+    border-color: gray;
+    border-style: solid;
+  }
+  .title{
+    font-family: Arial;
+    padding-left: 10px;
+  }
+  button{
+   margin-left: 10px;
+  }
