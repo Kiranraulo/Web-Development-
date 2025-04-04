@@ -1,0 +1,37 @@
+body{
+    height: 3000px;
+  }
+  .bottom-right{
+    background-color: gray;
+    position: fixed ;
+    width: 320px;
+    height: 180px;
+    bottom: 20px;
+    right: 20px;
+  }
+  .close-button{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    border-radius: 50%;
+    left: -18px;
+    top: -18px;
+    font-family: Arial;
+    font-size: 20px;
+  }
+  .video-time{
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
